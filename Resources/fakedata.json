@@ -1,0 +1,14 @@
+{
+  "courses": [
+    {
+      "february": [
+        {
+          "name": "Course name",
+          "date": "2022-01-28",
+          "professor": "Professor name",
+          "location": "eg: room nb"
+        }
+      ]
+    }
+  ]
+}

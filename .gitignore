@@ -1,0 +1,7 @@
+/api/credentials.json
+/api/token.json
+Resources/data.json
+venv
+.idea
+Classes/__pycache__/
+api/__pycache__/
